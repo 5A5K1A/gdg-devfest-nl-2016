@@ -51,7 +51,9 @@ Links:
 * [Lingo - iOS App voor icons](https://www.lingoapp.com/)
 * [Principle Prototyping App - voor animaties](http://principleformac.com/)
 
-Other interesting talk: https://youtu.be/ZFyK1J5NrVk
+Other interesting talk: __Designer & developer communication - Google I/O 2016__
+
+[![Designer & developer communication - Google I/O 2016](http://img.youtube.com/vi/ZFyK1J5NrVk/0.jpg)](http://www.youtube.com/watch?v=ZFyK1J5NrVk)
 
 ============================================================
 <a name="08-1350"></a>
@@ -69,8 +71,10 @@ Links:
 * [NativeScript Mip robot project](https://www.npmjs.com/package/nativescript-mip-ble)
 * [NativeScript Slack](http://developer.telerik.com/wp-login.php?action=slack-invitation)
 
-Video: 		[niet van DevFest](https://www.youtube.com/watch?v=88LufAsZ56k)<br>
-Slides: 	[drive.google.com](https://drive.google.com/file/d/0B4BcydrYoAJFYWFxSXc1RWdDTzQ/view)
+Slides: 	[drive.google.com](https://drive.google.com/file/d/0B4BcydrYoAJFYWFxSXc1RWdDTzQ/view)<br>
+Video: 		__Sharing Code Between Web and Native Apps__ (same talk, other venue)
+
+[![not at DevFest](http://img.youtube.com/vi/88LufAsZ56k/0.jpg)](http://www.youtube.com/watch?v=88LufAsZ56k)
 
 ============================================================
 <a name="08-other"></a>
