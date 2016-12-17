@@ -1,7 +1,7 @@
 ## Notes on [GDG DevFest NL 2016](https://devfest.nl/)
 Follow on [twitter](https://twitter.com/DevFestNL)
 
-**Thursday October 8, 2016**
+**Saturday October 8, 2016**
 * [Use code generation to make better apps - Dylan Drost](#08-1030)
 * [The productive developer guide to Angular 2 - Maurice de Beijer](#08-1120)
 * [Developers & Designers - Jordi Bruin](#08-1300)
